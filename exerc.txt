@@ -1,0 +1,277 @@
+sarali varisai (lesson 1)raagam: maayamaaLava gowLa
+15th mElakartha
+aarOhaNam: S R1 G3 M1 P D1 N3 S
+avarOhaNam: S N3 D1 P M1 G3 R1 S
+taaLam: aadi
+
+Exercise 1.
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 2.
+s   r - s   r - |   s   r   |   g   m   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n - S   n - |   S   n   |   d   p   ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 3.
+s   r   g - s   |   r   g - |   s   r   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d - s   |   n   d - |   s   n   ||
+S   n   d   p   |   m   g   |   r   s   ||
+
+Exercise 4.
+s   r   g   m - |   s   r   |   g   m - ||
+s   r   g   m   |   p   d   |   n   s   ||
+S   n   d   p - |   S   n   |   d   p - ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 5.
+s   r   g   m   |   p   , - |   s   r   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   , - |   S   n   ||
+S   n   d   p   |   m   g   |   r   s   ||
+
+Exercise 6.
+s   r   g   m   |   p   d - |   s   r   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   g - |   S   n   ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 7.
+s   r   g   m   |   p   d   |   n   ,   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   g   |   r   ,   ||
+S   n   d   p   |   m   g   |   r   s   ||
+
+Exercise 8.
+s   r   g   m   |   p   m   |   g   r   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   p   |   d   n   ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 9.
+s   r   g   m   |   p   m   |   d   p   ||
+s   r   g   m   |   p   d   |   n   S   ||
+S   n   d   p   |   m   p   |   g   m   ||
+S   n   d   p   |   m   g   |   r   s   ||
+Exercise 10.
+s   r   g   m   |   p   ,   |   g   m   ||
+p   ,   ,   ,   |   p   ,   |   ,   ,   ||
+g   m   p   d   |   n   d   |   p   m   ||
+g   m   p - g   |   m   g   |   r   s   ||
+
+ 
+Exercise 11.
+S   ,   n   d   |   n   ,   |   d   p   ||
+d   ,   p   m   |   p   ,   |   p   ,   ||
+g   m   p   d   |   n   d   |   p   m   ||
+g   m   p - g   |   m   g   |   r   s   ||
+Exercise 12.
+S   S   n   d   |   n   n   |   d   p   ||
+d   d   p   m   |   p   ,   |   p   ,   ||
+g   m   p   d   |   n   d   |   p   m   ||
+g   m   p - g   |   m   g   |   r   s   ||
+Exercise 13.
+s   r   g   r   |   g   , - |   g   m   ||
+p   m   p   , - |   d   p   |   d   ,   ||
+m   p   d   p   |   d   n   |   d   p   ||
+m   p   d   p   |   m   g   |   r   s   ||
+ 
+Exercise 14.
+s   r   g   m   |   p   ,   |   p   ,   ||
+d   d   p   ,   |   m   m   |   p   ,   ||
+d   n   S   ,   |   S   n   |   d   p   ||
+S   n   d   p   |   m   g   |   r   s   ||
+
+janTai varisai (lesson 2)raagam: maayamaaLava gowLa
+15th mElakartha
+aarOhaNam: S R1 G3 M1 P D1 N3 S
+avarOhaNam: S N3 D1 P M1 G3 R1 S
+taaLam: aadi
+1.
+s   s   r   r   |   g   g   |   m   m   ||
+p   p   d   d   |   n   n   |   S   S   ||
+2.
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+3.
+s   s   r   r   |   g   g   |   r   r   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   g   g   |   m   m   |   g   g   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   m   m   |   p   p   |   m   m   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   p   p   |   d   d   |   p   p   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   d   d   |   n   n   |   d   d   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   n   n   |   d   d   |   n   n   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   d   d   |   p   p   |   d   d   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   p   p   |   m   m   |   p   p   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   m   m   |   g   g   |   m   m   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   g   g   |   r   r   |   g   g   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+4.
+s   s   r - s   |   s   r   |   s   r   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   g - r   |   r   g   |   r   g   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   m - g   |   g   m   |   g   m   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   p - m   |   m   p   |   m   p   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   d - p   |   p   d   |   p   d   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   n - S   |   S   n   |   S   n   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   d - n   |   n   d   |   n   d   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   p - d   |   d   p   |   d   p   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   m - p   |   p   m   |   p   m   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   g - m   |   m   g   |   m   g   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+5.
+s   s   r   r   |   g - s   |   r   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   g   g   |   m - r   |   g   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   m   m   |   p - g   |   m   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   p   p   |   d - m   |   p   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   d   d   |   n - p   |   d   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   n   n   |   d - S   |   n   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   d   d   |   p - n   |   d   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   p   p   |   m - d   |   p   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   m   m   |   g - p   |   m   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   g   g   |   r - m   |   g   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+6.
+s   s   ,   r   |   r   ,   |   g   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   ,   g   |   g   ,   |   m   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   ,   m   |   m   ,   |   p   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   ,   p   |   p   ,   |   d   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   ,   d   |   d   ,   |   n   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   ,   n   |   n   ,   |   d   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   ,   d   |   d   ,   |   p   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   ,   p   |   p   ,   |   m   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   ,   m   |   m   ,   |   g   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   ,   g   |   g   ,   |   r   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+7.
+s   ,   s   r   |   ,   r   |   g   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   ,   r   g   |   ,   g   |   m   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   ,   g   m   |   ,   m   |   p   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   ,   m   p   |   ,   p   |   d   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   ,   p   d   |   ,   d   |   n   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   ,   S   n   |   ,   n   |   d   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   ,   n   d   |   ,   d   |   p   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   ,   d   p   |   ,   p   |   m   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   ,   p   m   |   ,   m   |   g   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   ,   m   g   |   ,   g   |   r   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+8.
+s   s   s   r   |   r   r   |   g   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   r   r   g   |   g   g   |   m   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   g   g   m   |   m   m   |   p   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   m   m   p   |   p   p   |   d   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   p   p   d   |   d   d   |   n   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   S   S   n   |   n   n   |   d   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   n   n   d   |   d   d   |   p   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   d   d   p   |   p   p   |   m   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   p   p   m   |   m   m   |   g   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   m   m   g   |   g   g   |   r   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+9.
+s   ,   r   g   |   , - s   |   r   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   ,   g   m   |   , - r   |   g   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   ,   m   p   |   , - g   |   m   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   ,   p   d   |   , - m   |   p   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   ,   d   n   |   , - p   |   d   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   ,   n   d   |   , - S   |   n   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   ,   d   p   |   , - n   |   d   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   ,   p   m   |   , - d   |   p   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   ,   m   g   |   , - p   |   m   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   ,   g   r   |   , - m   |   g   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+
+10.
+s   r   ,   g   |   , - s   |   r   g   ||
+s   s   r   r   |   g   g   |   m   m   ||
+r   g   ,   m   |   , - r   |   g   m   ||
+r   r   g   g   |   m   m   |   p   p   ||
+g   m   ,   p   |   , - g   |   m   p   ||
+g   g   m   m   |   p   p   |   d   d   ||
+m   p   ,   d   |   , - m   |   p   d   ||
+m   m   p   p   |   d   d   |   n   n   ||
+p   d   ,   n   |   , - p   |   d   n   ||
+p   p   d   d   |   n   n   |   S   S   ||
+S   n   ,   d   |   , - S   |   n   d   ||
+S   S   n   n   |   d   d   |   p   p   ||
+n   d   ,   p   |   , - n   |   d   p   ||
+n   n   d   d   |   p   p   |   m   m   ||
+d   p   ,   m   |   , - d   |   p   m   ||
+d   d   p   p   |   m   m   |   g   g   ||
+p   m   ,   g   |   , - p   |   m   g   ||
+p   p   m   m   |   g   g   |   r   r   ||
+m   g   ,   r   |   , - m   |   g   r   ||
+m   m   g   g   |   r   r   |   s   s   ||
+

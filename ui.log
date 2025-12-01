@@ -1,0 +1,52 @@
+/Users/vsankarganesh/projects/carnaticguru-ai/ui_app.py:836: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+INFO:     Started server process [41307]
+INFO:     Waiting for application startup.
+2025-11-25 01:34:10,407 - __main__ - INFO - 
+================================================================================
+2025-11-25 01:34:10,407 - __main__ - INFO - CarnaticGuru Modern UI Starting
+2025-11-25 01:34:10,407 - __main__ - INFO - ================================================================================
+2025-11-25 01:34:10,407 - __main__ - INFO - Initializing with database: sqlite+aiosqlite:////Users/vsankarganesh/projects/carnaticguru-ai/carnatic_guru.db
+2025-11-25 01:34:10,414 - google_adk.google.adk.sessions.database_session_service - INFO - Local timezone: Asia/Kolkata
+2025-11-25 01:34:10,414 - google_adk.google.adk.runners - WARNING - App name mismatch detected. The runner is configured with app name "carnatic_guru", but the root agent was loaded from "/Users/vsankarganesh/projects/carnaticguru-ai/.venv/lib/python3.13/site-packages/google/adk/agents", which implies app name "agents".
+2025-11-25 01:34:10,415 - __main__ - INFO - ✓ Services initialized
+2025-11-25 01:34:10,415 - __main__ - INFO - ================================================================================
+2025-11-25 01:34:10,415 - __main__ - INFO - ✓ UI Server ready!
+2025-11-25 01:34:10,415 - __main__ - INFO - Visit: http://localhost:8002
+2025-11-25 01:34:10,415 - __main__ - INFO - ================================================================================
+
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52068 - "GET /api/users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52068 - "GET /api/options HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/options HTTP/1.1" 200 OK
+2025-11-25 01:35:10,587 - __main__ - INFO - Processing query from Arjun: [lessons] What are the basic swaras in Carnatic music?
+2025-11-25 01:35:10,604 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.0-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-25 01:35:11,792 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
+2025-11-25 01:35:11,793 - google_genai.types - WARNING - Warning: there are non-text parts in the response: ['function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2025-11-25 01:35:11,797 - google_adk.google.adk.runners - WARNING - App name mismatch detected. The runner is configured with app name "carnatic_guru", but the root agent was loaded from "/Users/vsankarganesh/projects/carnaticguru-ai/.venv/lib/python3.13/site-packages/google/adk/agents", which implies app name "agents".
+2025-11-25 01:35:11,808 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.0-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-25 01:35:13,699 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
+2025-11-25 01:35:13,700 - google_adk.google.adk.runners - INFO - Closing runner...
+2025-11-25 01:35:13,701 - google_adk.google.adk.runners - INFO - Runner closed.
+2025-11-25 01:35:13,730 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.0-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-25 01:35:15,129 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
+2025-11-25 01:35:15,139 - __main__ - INFO - Response generated, events: 3
+INFO:     127.0.0.1:52080 - "POST /api/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/session/learner_1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/session/learner_2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/session/learner_3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52080 - "GET /api/session/admin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET /api/users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET /api/options HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET /api/users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52088 - "GET /api/options HTTP/1.1" 200 OK

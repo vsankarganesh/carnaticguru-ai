@@ -1,0 +1,8 @@
+google-adk
+python-dotenv
+litellm
+google-genai
+sqlalchemy>=2.0
+aiosqlite
+greenlet
+pypdf
